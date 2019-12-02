@@ -7,8 +7,7 @@ A beautiful, feature rich, device friendly wedding website.
 2. __RSVP feature__ which directly uploads data to a Google sheet.
 3. __Receive email alerts__ when someone RSVPs.
 4. __Add to Calendar__ feature which supports four different calendars.
-5. __Book Uber__ button lets guests book a cab to the venue with just a single tap.
-6. Start and run the website __completely free__. No hosting, backend server, or database required as you can
+5. Start and run the website __completely free__. No hosting, backend server, or database required as you can
 
 # Getting Started
 1. `$ cd wedding-website` - go inside the project directory
