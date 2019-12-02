@@ -8,30 +8,37 @@
 }
 
 section.countdown{
+    min-height:180px;
+    background:url("../img/count.jpg") center center;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    position:relative;
     text-align: center;
-    background: #63605e
-}
-
-.container {
-  color: rgb(255, 255, 255);
 }
 
 h1 {
+    color: rgb(255, 255, 255);
     font-weight: relative;
     font-family: inherit;
 }
 
-li {
-  display: inline-block;
+li{
+display: inline-block;
   font-size: 1 em;
   list-style-type: none;
   padding: 1em;
   text-transform: uppercase;
+  color : #ffffff;
+   border-radius: 20px;
+   
 }
 
 li span {
   display: block;
   font-size: 4.5rem;
+ 
 }
 
 
